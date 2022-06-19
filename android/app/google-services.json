@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238960772443",
+    "project_id": "pengiriman-barang-309c8",
+    "storage_bucket": "pengiriman-barang-309c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238960772443:android:a1e4e6dd3535a7a97a467e",
+        "android_client_info": {
+          "package_name": "com.example.pengiriman_barang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238960772443-ub27v3brnck577mf1id86nptoare5lj6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCD7Li4CqxRKwClOvhNoCmYosrSqe-se9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238960772443-ub27v3brnck577mf1id86nptoare5lj6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
